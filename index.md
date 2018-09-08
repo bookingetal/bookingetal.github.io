@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-\center
-[Mission](./another-page.html)  [For influencers](./another-page.html)  [For sponsors](./another-page.html) [Contact me](./another-page.html) 
-\center
-
 <p align="center">
   <a href="#">Mission</a> |
   <a href="#">For influencers</a> |
