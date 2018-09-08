@@ -15,16 +15,15 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 # [Influencers](#influencers)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+ We help connect you to products that you use and experiences want to share with your friends.
 
 # [Sponsors](#sponsors)
 
 
+
 # [Contact](#contact)
 
-
+Contact us at bookingetal@gmail.com.
 
 ### Small image
 
