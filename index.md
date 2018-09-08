@@ -26,9 +26,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 Contact me at bookingetal@gmail.com or through the form below:
 
 <form method="POST" action="https://formspree.io/bookingetal@gmail.com">
-  <input type="name" name="name" placeholder="First name"> <br>
-  <input type="email" name="email" placeholder="Your email"> <br>
-  <textarea name="message" placeholder="Your message"></textarea> <br>
+  <input type="name" name="name" placeholder="First name"> <br> <div style="height:1px;font-size:1px;">&nbsp;</div> 
+  <input type="email" name="email" placeholder="Your email"> <br> <div style="height:1px;font-size:1px;">&nbsp;</div> 
+  <textarea name="message" placeholder="Your message"></textarea> <br> <div style="height:1px;font-size:1px;">&nbsp;</div> 
   <button type="submit">Send</button>
 </form>
 
