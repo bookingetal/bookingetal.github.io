@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-\begin{center}
+\center
 [Mission](./another-page.html)  [For influencers](./another-page.html)  [For sponsors](./another-page.html) [Contact me](./another-page.html) 
-\end{center}
+\center
 
 
 # Mission
