@@ -24,9 +24,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 # [Contact](#contact)
 
 <form method="POST" action="https://formspree.io/bookingetal@gmail.com">
-  <input type="name" name="name" placeholder="First name"> \\
-  <input type="email" name="email" placeholder="Your email"> \\
-  <textarea name="message" placeholder="Your message"></textarea> \\
+  <input type="name" name="name" placeholder="First name"> <br>
+  <input type="email" name="email" placeholder="Your email"> <br>
+  <textarea name="message" placeholder="Your message"></textarea> <br>
   <button type="submit">Send</button>
 </form>
 
