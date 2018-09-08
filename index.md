@@ -4,8 +4,8 @@ layout: default
 <p align="center">
   <a href="#mission">Mission</a> |
   <a href="#influencers">For influencers</a> |
-  <a href="sponsors">For sponsors</a> |
-  <a href="contact">Contact me</a>
+  <a href="#sponsors">For sponsors</a> |
+  <a href="#contact">Contact me</a>
 </p>
 
 
