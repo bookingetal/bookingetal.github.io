@@ -15,7 +15,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 # [Influencers](#influencers)
 
- We help connect you to products that you use and experiences want to share with your friends.
+ Want to get compensated travel and products? We can help you partner with great sponsors, which align with your brand. 
 
 # [Sponsors](#sponsors)
 
