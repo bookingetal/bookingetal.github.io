@@ -13,7 +13,7 @@ layout: default
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-# [For influencers](#influencers)
+# [Influencers](#influencers)
 
 > This is a blockquote following a header.
 >
@@ -22,7 +22,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 # [Sponsors](#sponsors)
 
 
-# [Contact me](#contact)
+# [Contact](#contact)
 
 
 
